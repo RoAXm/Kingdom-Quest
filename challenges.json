@@ -1,0 +1,9 @@
+[
+  {"type":"Parable Bluff","title":"A hidden meaning","prompt":"Which parable features a traveler helped by an unexpected neighbor?","answer":"The Good Samaritan","ref":"Luke 10:25–37","choices":["The Good Samaritan","The Lost Sheep","The Talents","The Sower"]},
+  {"type":"Vision Sketch","title":"Draw it in the air","prompt":"Describe or sketch (on paper) a Bible scene for others to guess: Noah’s ark.","answer":"Noah’s ark","ref":"Genesis 6–9"},
+  {"type":"Wisdom Sprint","title":"Quick wisdom","prompt":"Who built an ark before the flood, in the Genesis account?","answer":"Noah","ref":"Genesis 6–9","choices":["Noah","Moses","David","Elijah"]},
+  {"type":"Words of Witness","title":"Creative answer","prompt":"In one sentence, describe a modern-day act of neighborly kindness inspired by the Good Samaritan.","answer":"","ref":"Luke 10:25–37"},
+  {"type":"Social Deduction","title":"Look for the clue","prompt":"A player claims they earned points, but the server records no completed action. Discuss what that might mean, then vote on a suspicion.","answer":"","ref":"Proverbs 18:13 (reflection)"},
+  {"type":"Body in Action","title":"Memory sequence","prompt":"Remember this sequence: STAR → FISH → BREAD → DOVE. Type the sequence in order to earn points.","answer":"STAR FISH BREAD DOVE","ref":"Matthew 14:13–21; John 21:1–14"},
+  {"type":"Council","title":"Choose the path","prompt":"Council choice: spend shared Grace on a careful investigation, or preserve it for the final challenge. Discuss, then vote.","answer":"","ref":"Proverbs 15:22"}
+]

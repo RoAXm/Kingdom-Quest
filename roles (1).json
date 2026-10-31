@@ -1,0 +1,235 @@
+{
+  "roles": [
+    {
+      "name": "Peace Maker",
+      "faction": "Chosen",
+      "ability": "Once in the final round, restore half the Grace meter when the Fallen are close to winning."
+    },
+    {
+      "name": "Wise",
+      "faction": "Chosen",
+      "ability": "Once per meeting, a correct False Prophet accusation reveals a movement or task clue."
+    },
+    {
+      "name": "Discern",
+      "faction": "Chosen",
+      "ability": "Once per meeting, challenge suspicious evidence; a correct challenge reveals a clue, while a wrong challenge risks elimination."
+    },
+    {
+      "name": "Resist",
+      "faction": "Chosen",
+      "ability": "Resist temptation twice and avoid voting for three rounds to unlock a special Chosen victory condition."
+    },
+    {
+      "name": "Anointed",
+      "faction": "Chosen",
+      "ability": "Bond with a player; repeated choices unlock stronger effects, but mistakes can endanger both bonded players."
+    },
+    {
+      "name": "Liar",
+      "faction": "Fallen",
+      "ability": "Up to three times per game, nominate three suspects; if the selected target is voted out, gain protection from Taskgiver interference."
+    },
+    {
+      "name": "Lust",
+      "faction": "Fallen",
+      "ability": "Once per meeting, use a proximity-based temptation or attack, subject to lobby-size and distance rules."
+    },
+    {
+      "name": "False Prophet",
+      "faction": "Fallen",
+      "ability": "Once per meeting, spread a false claim; belief creates delayed consequences, but failure exposes the Prophet."
+    },
+    {
+      "name": "Tempter",
+      "faction": "Fallen",
+      "ability": "Once per game, offer a player a dangerous choice between accepting corruption and resisting."
+    },
+    {
+      "name": "Crafter",
+      "faction": "Fallen",
+      "ability": "Choose a Bible-related word once per game; if spoken unnoticed during a meeting, trigger a delayed attack."
+    },
+    {
+      "name": "Antichrist",
+      "faction": "Fallen",
+      "ability": "If other Fallen are eliminated, attempt a special revival or recruitment under strict endgame rules."
+    },
+    {
+      "name": "Taskgiver",
+      "faction": "Lukewarm",
+      "ability": "Choose between two secret offers; completing one before next round grants a benefit that may help you, the target, or Fallen."
+    },
+    {
+      "name": "Prosecutor",
+      "faction": "Lukewarm",
+      "ability": "Mark a player; if they are voted out within three rounds, complete your personal objective."
+    },
+    {
+      "name": "Busybody",
+      "faction": "Lukewarm",
+      "ability": "Choose a player and complete your objective if they are voted out in the designated round."
+    },
+    {
+      "name": "Instigator",
+      "faction": "Lukewarm",
+      "ability": "Provoke two players; win if the required conflict and elimination sequence succeeds."
+    },
+    {
+      "name": "Theological",
+      "faction": "Lukewarm",
+      "ability": "Offer allegiance to Chosen or Fallen; each acceptance unlocks a different objective and power set; rejection by both defeats you."
+    },
+    {
+      "name": "Shepherd",
+      "faction": "Chosen",
+      "ability": "Protect one player from one attack each round; cannot protect the same player consecutively."
+    },
+    {
+      "name": "Watchman",
+      "faction": "Chosen",
+      "ability": "Receive an alert when a player enters or leaves a chosen room, without revealing their role."
+    },
+    {
+      "name": "Scribe",
+      "faction": "Chosen",
+      "ability": "Record a public claim and reveal a contradiction if the speaker later changes it."
+    },
+    {
+      "name": "Healer",
+      "faction": "Chosen",
+      "ability": "Restore some Grace after a healing challenge, up to twice per game."
+    },
+    {
+      "name": "Lampbearer",
+      "faction": "Chosen",
+      "ability": "Illuminate a darkened room and reveal traces of recent sabotage, not the saboteur."
+    },
+    {
+      "name": "Intercessor",
+      "faction": "Chosen",
+      "ability": "Once per game, cancel one vote against a player after completing a challenge."
+    },
+    {
+      "name": "Pilgrim",
+      "faction": "Chosen",
+      "ability": "Complete three location objectives to earn a temporary bonus vote."
+    },
+    {
+      "name": "Builder",
+      "faction": "Chosen",
+      "ability": "Repair a sabotaged castle location faster than other players."
+    },
+    {
+      "name": "Witness",
+      "faction": "Chosen",
+      "ability": "Privately confirm that a task or sabotage event occurred; identity requires separate evidence."
+    },
+    {
+      "name": "Martyr",
+      "faction": "Chosen",
+      "ability": "Sacrifice your next action once per game to protect another player from elimination."
+    },
+    {
+      "name": "Shadow Walker",
+      "faction": "Fallen",
+      "ability": "Move between connected rooms without triggering ordinary movement alerts; disabled during lockdown."
+    },
+    {
+      "name": "Saboteur",
+      "faction": "Fallen",
+      "ability": "Disable one castle location until repaired; cannot target the same location in consecutive rounds."
+    },
+    {
+      "name": "Whisperer",
+      "faction": "Fallen",
+      "ability": "Send one anonymous misleading clue that can be checked against server records."
+    },
+    {
+      "name": "Hex Keeper",
+      "faction": "Fallen",
+      "ability": "Curse a location so its next task takes longer; ends when completed or round expires."
+    },
+    {
+      "name": "Puppeteer",
+      "faction": "Fallen",
+      "ability": "Temporarily influence one vote with a modifier but cannot fully override the voter."
+    },
+    {
+      "name": "Night Stalker",
+      "faction": "Fallen",
+      "ability": "Mark a player and learn the next room they visit for one round."
+    },
+    {
+      "name": "Counterfeiter",
+      "faction": "Fallen",
+      "ability": "Create one false task-completion report that can be exposed by verification roles."
+    },
+    {
+      "name": "Silencer",
+      "faction": "Fallen",
+      "ability": "Mute one player during part of a meeting; they can still vote."
+    },
+    {
+      "name": "Usurper",
+      "faction": "Fallen",
+      "ability": "Once per game, block another player\u2019s active ability; target is notified of the block."
+    },
+    {
+      "name": "Harbinger",
+      "faction": "Fallen",
+      "ability": "Trigger a countdown forcing players to choose between repairing a location and gathering evidence."
+    },
+    {
+      "name": "Mediator",
+      "faction": "Lukewarm",
+      "ability": "Require two nominated players to state evidence before voting; win if neither is eliminated in that meeting."
+    },
+    {
+      "name": "Collector",
+      "faction": "Lukewarm",
+      "ability": "Gather three hidden relics from different rooms and survive the next meeting."
+    },
+    {
+      "name": "Fortune Teller",
+      "faction": "Lukewarm",
+      "ability": "Receive one of two possible clues and win by correctly predicting two voting outcomes."
+    },
+    {
+      "name": "Merchant",
+      "faction": "Lukewarm",
+      "ability": "Offer temporary trades of task benefits; win after two accepted trades and survival."
+    },
+    {
+      "name": "Pilferer",
+      "faction": "Lukewarm",
+      "ability": "Take an unclaimed task reward; win by collecting two rewards without exposure."
+    },
+    {
+      "name": "Arbitrator",
+      "faction": "Lukewarm",
+      "ability": "Break a tied vote between tied candidates; win if the selected candidate is eliminated and you survive."
+    },
+    {
+      "name": "Archivist",
+      "faction": "Lukewarm",
+      "ability": "Unlock Bible-history clues through knowledge challenges; win by finding two clues and identifying a faction."
+    },
+    {
+      "name": "Double Agent",
+      "faction": "Lukewarm",
+      "ability": "Choose a faction to assist for one round; win by completing its objective without exposing your choice."
+    },
+    {
+      "name": "Redeemer",
+      "faction": "Lukewarm",
+      "ability": "Offer a player a chance to reverse one temporary negative effect; win if they survive the next meeting."
+    },
+    {
+      "name": "Opportunist",
+      "faction": "Lukewarm",
+      "ability": "Choose a public objective each round; win by completing three different objectives."
+    }
+  ],
+  "note": "Role descriptions are design data. Each ability needs server-side implementation and multiplayer testing before it can be considered fully playable."
+}
